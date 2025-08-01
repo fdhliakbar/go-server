@@ -4,7 +4,7 @@ Saya membuat sebuah web server sederhana dengan Go yang menyediakan layanan file
 
 ## Arsitektur Server
 
-![How Server Works](howToServerWorks.drawio.png)
+![How Server Works](server-works.png)
 
 ---
 
